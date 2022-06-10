@@ -11,6 +11,7 @@
 		491E90A72852EA4200FDC63D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491E90A62852EA4200FDC63D /* ContentView.swift */; };
 		491E90A92852EA4600FDC63D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 491E90A82852EA4600FDC63D /* Assets.xcassets */; };
 		491E90AC2852EA4600FDC63D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 491E90AB2852EA4600FDC63D /* Preview Assets.xcassets */; };
+		491E90B32853F4FA00FDC63D /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491E90B22853F4F900FDC63D /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		491E90A62852EA4200FDC63D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		491E90A82852EA4600FDC63D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		491E90AB2852EA4600FDC63D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		491E90B22853F4F900FDC63D /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				491E90A62852EA4200FDC63D /* ContentView.swift */,
 				491E90A82852EA4600FDC63D /* Assets.xcassets */,
 				491E90AA2852EA4600FDC63D /* Preview Content */,
+				491E90B22853F4F900FDC63D /* User.swift */,
 			);
 			path = "Cupcake Corner";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				491E90A72852EA4200FDC63D /* ContentView.swift in Sources */,
 				491E90A52852EA4200FDC63D /* Cupcake_CornerApp.swift in Sources */,
+				491E90B32853F4FA00FDC63D /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
